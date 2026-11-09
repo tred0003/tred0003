@@ -27,3 +27,6 @@ I also found the cost meter was missing most of the bill, fixed it, and cut cost
 An e-bike safety app for parents. Phones upload rides, workers score them for speeding, phone use and
 night riding, and parents get notified. It's been live on iOS and Android since mid-2026. The code is
 private because it's a business, but I'm happy to walk through it.
+
+Local news covered it: News4JAX (a story, an in-studio interview and an article) and FOX 13 Tampa Bay.
+[Press](https://rygiene.app/press.html)
